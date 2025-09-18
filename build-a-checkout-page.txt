@@ -1,0 +1,33 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Checkout Page</title>
+</head>
+
+<body>
+    <h1>Checkout</h1>
+    <section>
+        <h2>Your Cart</h2>
+        <img src="https://media.istockphoto.com/id/462407175/photo/spoon.jpg?s=612x612&w=0&k=20&c=Uq8jB6rPNXdXDcWsew17-ZsqpfFsV9y_JV-Wu385mz8=" alt="A neat-looking silver spoon.">
+    </section>
+    <section>
+        <h2>Payment Information</h2>
+        <form>
+            <label for="card-name">Card name</label>
+            <input type="text" id="card-name" name="card-name" required aria-required="true">
+        </form>
+        <form>
+            <label for="card-number">Card number</label>
+            <input type="text" id="card-number" name="card-number" required aria-required="true">
+        </form>
+    </section>
+</body>
+
+</html>
+
+** end of index.html **
+

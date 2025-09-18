@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Multimedia Player</title>
+</head>
+
+<body>
+  <h1>Multimedia Player</h1>
+  <section>
+    <h2>Now playing: Mika - Relax, Take It Easy (Audio)</h2>
+    <audio controls aria-label="Audio player for Mika - Relax, Take It Easy">
+      <source src="imagine, that there's a link for an mp3 file..." type="audio/mpeg">
+    </audio>
+  </section>
+  <section>
+    <h2>MIKA - Relax, Take It Easy (Official Music Video)</h2>
+    <video controls width="640" height="360">
+    <source src="imagine, that there's a direct link for an mp4 file..." type="video/mp4"> <track kind="captions" src="captions.vtt" srclang="en" label="en">
+    </video>
+  </section>
+  <section>
+    <h2>Transcript</h2>
+    <p>
+      <pre>
+[Verse 1]
+Took a ride to the end of the line
+Where no one ever goes
+Ended up on a broken train
+With nobody I know
+But the pain and the longing's the same when you're dying
+Now I'm lost, and I'm screaming for help alone
+
+[Chorus]
+Relax, take it easy
+For there is nothing that we can do
+Relax, take it easy
+Blame it on me or blame it on you
+
+[Post-Chorus]
+It's as if I'm scared
+It's as if I'm terrified
+It's as if I'm scared
+It's as if I'm playing with fire
+Scared
+It's as if I'm terrified
+Are you scared?
+Are we playing with fire?
+Relax
+You might also like
+meet the grahams
+Kendrick Lamar
+Family Matters
+Drake
+Grace Kelly
+MIKA
+[Verse 2]
+Oh, there is an answer
+To the darkest times
+It's clear, we don't understand it
+But the last thing on my mind
+Is to leave you, I believe that we're in this together
+Don't scream, there are so many roads left to run
+
+[Chorus]
+Relax, take it easy
+For there is nothing that we can do
+Relax, take it easy
+Blame it on me or blame it on you
+Relax, take it easy
+For there is nothing that we can do
+Relax, take it easy
+Blame it on me or blame it on you
+
+[Instrumental Break]
+
+[Chorus]
+Relax, take it easy
+For there is nothing that we can do
+Relax, take it easy
+Blame it on me or blame it on you
+Relax, take it easy
+For there is nothing that we can do
+Relax, take it easy
+Blame it on me or blame it on you
+Relax
+[Post-Chorus]
+It's as if I'm scared
+It's as if I'm terrified
+It's as if I'm scared
+It's as if I'm playing with fire
+Scared
+It's as if I'm terrified
+Are you scared?
+Are we playing with fire?
+Relax
+      </pre>
+    </p>
+  </section>
+</body>
+
+</html>

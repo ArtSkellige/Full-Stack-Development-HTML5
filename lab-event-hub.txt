@@ -1,0 +1,52 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Event Hub</title>
+</head>
+
+<body>
+    <header>
+        <h1>Event Hub</h1>
+        <nav>
+            <ul>
+                <li><a href="#upcoming-events">Upcoming Events</a></li>
+                <li><a href="#past-events">Past Events</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="upcoming-events">
+            <h2>Upcoming Events</h2>
+            <article>
+                <h3>123</h3>
+                <p>222123</p>
+            </article>
+            <article>
+                <h3>222</h3>
+                <p>123123</p>
+            </article>
+        </section>
+        <section id="past-events">
+            <h2>Past Events</h2>
+            <article>
+                <h3>Green Day Live in LA</h3>
+                <p>The punk-rock and alternative rock band Green Day performed an electrifying set at the Amazon Music Live Concert Series 2023 in Los Angeles, California.</p>
+                <img src="https://musecube.org/wp-content/uploads/2016/09/lyube.jpg" alt="The musical group by the name of Lube performs at a 35th anniversary concert"width="600" height="400">
+            </article>
+            <article>
+                <h3>Lyube 35th Anniversary Concert</h3>
+                <p>A spectacular celebration with the Russian musical group Lyube, featuring classic hits and fan favorites.</p>
+                <img src="https://www.rollingstone.com/wp-content/uploads/2023/11/green-day-tickets.jpg?w=1581&h=1054&crop=1" alt="The punk-rock and alt rock band named Green Day performs at Amazon Music Live Concert Series 2023 on October 26, 2023 in Los Angeles, California."width="600" height="400">
+            </article>
+        </section>
+    </main>
+</body>
+
+</html>
+
+** end of index.html **
+

@@ -1,0 +1,35 @@
+** start of index.html **
+
+<!DOCTYPE html>
+ <html lang="en">
+ <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Movie Review</title>
+ </head>
+
+<body>
+    <main>
+        <h1>The USG Ishimura: Descent Into Madness.Part 2: Echoes of the Black Marker.</h1>
+        <img src="https://i.ibb.co/rBfwm4P/11111111111111111111.png" height="1200" width="810" alt="A battered Isaac Clarke kneels in a dark, foreboding corridor of the USG Ishimura, illuminated by the eerie glow of his visor and the ominous Black Marker ahead, while looming necromorphs close in from the shadows.">
+        <p>
+        When the haunting echoes of the Black Marker reverberate through the ruined halls of the USG Ishimura, engineer Isaac Clarke is pushed to his limits. Badly wounded and pursued by grotesque necromorphs, Isaac must survive both his tormentors and the unraveling of his own mind. As darkness consumes the vessel, a desperate fight for life unfolds in corridors where hope is lost—and the only remaining signal is one of sorrow and madness.</p>
+        <p>
+        <strong>Movie Rating:</strong>
+        <span aria-hidden="true">⭐⭐⭐⭐⭐⭐⭐⭐☆☆</span> (8.4/10)
+        </p>
+        <h2>Cast Members</h2>
+        <ul>
+            <li><strong>Gunner Wright</strong> as Isaac Clarke</li>
+            <li><strong>Tonantzin Carmelo</strong> as Kendra Daniels</li>
+            <li><strong>Peter Mensah</strong> as Zach Hammond</li>
+            <li><strong>Tanya Clarke</strong> as Nicole Brennan</li>
+            <li><strong>Curt Cornelius</strong> as Nolan Stross </li>         
+        </ul>
+    </main>
+</body>
+
+</html>
+
+** end of index.html **
+

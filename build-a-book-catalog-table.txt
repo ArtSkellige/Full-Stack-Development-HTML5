@@ -1,0 +1,65 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Book Catalog</title>
+</head>
+
+<body>
+  <table>
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>Author</th>
+        <th>Genre</th>
+        <th>Publication Year</th>
+      </tr>
+    </thead>
+  <tbody>
+    <tr>
+      <td>The Brothers Karamazov</td>
+      <td>Fyodor Dostoevsky</td>
+      <td> Novel, Fiction, Suspense</td>
+      <td>November 1880</td>
+    </tr>
+    <tr>
+      <td>War and Peace</td>
+      <td>Leo Tolstoy</td>
+      <td>Novel, historical novel, Historical Fiction, Romance novel, War story, Philosophical fiction</td>
+      <td>1867</td>
+    </tr>
+        <tr>
+      <td>Crime and Punishment</td>
+      <td>Fyodor Dostoevsky</td>
+      <td>Novel, crime fiction, Psychological Fiction, Philosophical fiction</td>
+      <td>December 1866</td>
+    </tr>
+    <tr>
+      <td>A Gentleman in Moscow</td>
+      <td>Amor Towles</td>
+      <td>Historical Fiction, Urban fiction, Political fiction</td>
+      <td>September 6, 2016</td>
+    </tr>
+    <tr>
+      <td>Orphan Train</td>
+      <td>Christina Baker Kline</td>
+      <td>Novel, Historical Fiction</td>
+      <td>April 2, 2013</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="4">Total Books: 5</td>
+    </tr>
+  </tfoot>
+  </table>
+</body>
+
+</html>
+
+** end of index.html **
+
